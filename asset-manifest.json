@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/demorobo/static/css/main.cb209b03.css",
+    "main.js": "/demorobo/static/js/main.ef60127d.js",
+    "static/media/SEGA.woff": "/demorobo/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/demorobo/index.html",
+    "main.cb209b03.css.map": "/demorobo/static/css/main.cb209b03.css.map",
+    "main.ef60127d.js.map": "/demorobo/static/js/main.ef60127d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb209b03.css",
+    "static/js/main.ef60127d.js"
+  ]
+}
